@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputShowBuID" type="id" />
+    <item name="inputTEID" type="id" />
+    <item name="resultTVID" type="id" />
+    <item name="convertToTVID" type="id" />
+    <item name="temperatureRGID" type="id" />
+    <item name="celsiusRBID" type="id" />
+    <item name="fahrenheitRBID" type="id" />
+    <item name="kelvinRBID" type="id" />
+    <item name="lenghtMetricRGID" type="id" />
+    <item name="lenghtImperialRGID" type="id" />
+    <item name="mmRBID" type="id" />
+    <item name="cmRBID" type="id" />
+    <item name="mRBID" type="id" />
+    <item name="kmRBID" type="id" />
+    <item name="inchRBID" type="id" />
+    <item name="ftRBID" type="id" />
+    <item name="ydRBID" type="id" />
+    <item name="miRBID" type="id" />
+    <item name="weightRGID" type="id" />
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">start</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_my_application">welcome to my application!</string>
+    <string name="username">username</string>
+    <string name="convery_weight">convery weight</string>
+    <string name="convert_currency">Convert currency</string>
+</resources>
